@@ -43,7 +43,7 @@ Posteriormente a modelagem foram criadas as sheets com as análises gráficas do
     </p>
 
 ## Mineração dos Dados utilizando Clusterização
-O objetivo do TPII era realizar a mineração dos dados com algum algoritmo de Machine Learning. Para este trabalho, foi escolhido realizar a clusterização dos times brasileiros para identificar perfis táticos e estilos de jogo dos times defensivos e ofensivos do Brasileirão. Você encontra o notebook referente a clusterização no diretório de [Trabalho Prático II - ML](./Trabalho20%Prático20%II%20-20%ML)
+O objetivo do TPII era realizar a mineração dos dados com algum algoritmo de Machine Learning. Para este trabalho, foi escolhido realizar a clusterização dos times brasileiros para identificar perfis táticos e estilos de jogo dos times defensivos e ofensivos do Brasileirão. Você encontra o notebook referente a clusterização no diretório de [Trabalho Prático II - ML](./Trabalho%20Prático%20II%20-%20ML)
 
 Para a clusterização as features utilizadas foram: `posse de bola`, `passes`, `chutes`, `chutes no alvo`, `cartões`, `faltas`, `escanteios` e também criei uma métrica nova, a `eficiência do chute`.
 
